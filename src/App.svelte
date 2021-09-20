@@ -1,4 +1,4 @@
-<script lang="ts">
+<script lang="typescript">
   let counter: number = 5;
 
   const modifyCounter = (value: number): number => (counter += value);
